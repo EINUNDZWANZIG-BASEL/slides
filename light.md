@@ -3,7 +3,7 @@ theme: light
 marp: true
 ---
 
-![bg left:40% 80%](./media/einundzwanzig-square.svg)
+![bg left:40% 80%](./media/einundzwanzig.basel.logo.svg)
 
 # **Slide-Vorlage**
 
