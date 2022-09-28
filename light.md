@@ -5,7 +5,7 @@ marp: true
 
 ![bg left:40% 80%](./media/einundzwanzig.basel.logo.svg)
 
-# **Slide-Vorlage**
+# **Einundzwanzig Basel**
 
 Präsentationsvorlage für [Einundzwanzig](https://einundzwanzig.space/) Vorträge, basierend auf [Marp](https://marp.app/).
 
